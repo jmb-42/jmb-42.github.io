@@ -1,0 +1,14 @@
+body {
+  background-image: url("13144.jpg");
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: white;
+}
